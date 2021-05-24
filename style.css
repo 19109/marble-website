@@ -1,0 +1,148 @@
+body
+{
+    margin: 0;
+}
+.header-content
+{
+    background-color: #E5E5E5;
+} 
+.btn
+{
+  color: white;
+  background-color: #3F8DBF;
+  text-transform: uppercase;
+}
+a
+{
+    color: #636363!important;
+    text-transform: uppercase;
+    font-size: 12px;
+   
+}
+
+.slider-content
+{
+    text-align: center;
+    background-image: url(img/slider.jpg);
+    padding: 150px;
+    background-size: cover;
+}
+.slider-content h1
+{
+    color: white;
+    margin-bottom: 20px;
+}
+.slider-content h2
+{
+    color: gray;
+    margin-bottom: 30px;
+}
+.works-container
+{
+    text-align: center;
+    padding: 20px;
+}
+.works-container h2
+{
+    text-transform: capitalize;
+    font-size: 25px;
+    
+}
+.works-container h5
+{
+    font-size: 12px;
+    text-align: justify;
+    color: gray;
+   
+}
+hr
+{
+    width: 92;
+}
+.works-container h3
+{
+    text-transform: capitalize;
+    font-size: 18px;
+}
+.works-container h6
+
+{
+    text-transform: capitalize;
+    color: grey;
+    font-size: 12px;
+}
+.div1
+{
+    width: 80px;
+    height: 80px;
+    background-color: #9D9ABF;
+    border-radius: 50%;
+    margin: auto;
+    font-size: 45px;
+    color: white;
+
+}
+
+.div2
+{
+    width: 80px;
+    height: 80px;
+    background-color: #D2514B;
+    border-radius: 50%;
+    margin: auto;
+    font-size: 45px;
+    color: white;
+}
+.div3
+{
+    width: 80px;
+    height: 80px;
+    background-color: #66A3C6;
+    border-radius: 50%;
+    margin: auto;
+    font-size: 45px;
+    color: white;
+}
+.div4
+{
+    width: 80px;
+    height: 80px;
+    background-color: #E8C04F;
+    border-radius: 50%;
+    margin: auto;
+    font-size: 45px;
+    color: white;
+} 
+.works-container img
+{
+    width: 350px;
+    height: 300px;
+
+}
+.text h2
+{
+ 
+    font-size: 16px;
+    text-align: center;
+  
+}
+.text
+{
+    padding: 30px;
+    background-color: #EFEFEF;
+}
+.i
+{
+   font-size: 100px; 
+   text-align: center;
+}
+.footer-area
+{
+    background-color: #000;
+    color: gray;
+    padding: 20px;
+}
+row
+{
+    margin: 0!important;
+}
